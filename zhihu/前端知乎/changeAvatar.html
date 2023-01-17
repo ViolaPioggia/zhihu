@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>登录页面</title>
+<script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" ></script>
+<script>
+function imgFileTobase64() {
+      var reader = new FileReader();
+      var AllowImgFileSize = 2100000; //上传图片最大值(单位字节)（ 2 M = 2097152 B ）超过2M上传失败
+      var file = document.getElementById('upfile').files[0]
+      if (file) {
+        //将文件以Data URL形式读入页面
+        reader.readAsDataURL(file);
+        reader.onload = function (e) {
+          //var ImgFileSize = reader.result.substring(reader.result.indexOf(",") + 1).length;//截取base64码部分（可选可不选，需要与后台沟通）
+          if (AllowImgFileSize != 0 && AllowImgFileSize < reader.result.length) {
+            alert('上传失败，请上传不大于2M的图片！');
+            return;
+          } else {
+            //执行上传操作
+            alert(reader.result);
+			return reader.result
+          }
+        }
+      }
+    }
+
+	function register() {
+		var reader = new FileReader();
+      var AllowImgFileSize = 2100000; //上传图片最大值(单位字节)（ 2 M = 2097152 B ）超过2M上传失败
+      var file = document.getElementById('upfile').files[0]
+      if (file) {
+        //将文件以Data URL形式读入页面
+        reader.readAsDataURL(file);
+        reader.onload = function (e) {
+          //var ImgFileSize = reader.result.substring(reader.result.indexOf(",") + 1).length;//截取base64码部分（可选可不选，需要与后台沟通）
+          if (AllowImgFileSize != 0 && AllowImgFileSize < reader.result.length) {
+            alert('上传失败，请上传不大于2M的图片！');
+            return;
+          } else {
+            //执行上传操作
+            alert(reader.result);
+			var newavatar = reader.result
+        // var newavatar = dataURL;
+					
+		$.ajax({
+			url : "http://localhost:8088/user/uid/changeAvatar",
+			type : "post",
+            headers:{ "Authorization":"Bearer"+" "+localStorage.getItem("token")},
+			data : JSON.stringify({			
+				avatar : newavatar,
+			}),
+			contentType : "application/json;charset=UTF-8",
+			dataType : "JSON",
+			success : function(data) {
+				if (data != null) {
+					console.log(data)
+					document.write("更改头像成功！正在跳转至用户主页。。");
+					function login(){
+						location.href = "user.html"
+					}
+					setTimeout(login, 3000)
+					
+				}
+			},
+			error : function(data){
+				console.log(data)
+				alert("更改头像失败")
+			}    })
+          }
+        }
+      }
+		}      
+
+		
+</script>
+</head>
+<body>
+	<form>
+		
+	<p>
+	<input type="file" id="upfile" name="upload_image" accept="image/gif, image/jpeg, image/png, image/jpg">
+	</p>
+    <p id="upfile"></p>
+	<input type="button" value="确定" onclick="register()" />&nbsp;&nbsp;&nbsp; 
+	<input type="reset" value="重置" />
+	<img src="" id="upfile">
+		
+	</form>
+</body>
+</html>

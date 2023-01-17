@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>更改昵称</title>
+<script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" ></script>
+<script>
+	function register() {
+        var newNickname = $("#newNickname").val();
+					
+		$.ajax({
+			url : "http://localhost:8088/user/uid/changeNickname",
+			type : "post",
+            headers:{ "Authorization":"Bearer"+" "+localStorage.getItem("token")},
+			data : JSON.stringify({			
+				nickname : newNickname,
+			}),
+			contentType : "application/json;charset=UTF-8",
+			dataType : "JSON",
+			success : function(data) {
+				if (data != null) {
+					console.log(data)
+					document.write("更改昵称成功！正在跳转至用户主页。。");
+					function login(){
+						location.href = "user.html"
+					}
+					setTimeout(login, 3000)
+					
+				}
+			},
+			error : function(data){
+				console.log(data.responseJSON)
+				if(data.responseJSON.message=="verification failed"){
+					alert("请填写所需信息！")
+				}else if(data.responseJSON.message=="user already exists"){
+					alert("此用户名已存在")
+				}else if(data.responseJSON.message=="encrypt password failed"){
+					alert("encrypt password failed")
+				}else if(data.responseJSON.message=="write into redis failed"){
+					alert("write into redis failed")
+				}else if(data.responseJSON.message=="length of the username is wrong "||data.responseJSON.message=="the username has covered characters"){
+					alert("用户名必须是6-10位的纯数字")
+				}else if(data.responseJSON.message=="length of the password is wrong "||data.responseJSON.message=="the password can't have only nums"){
+					alert("密码不能只有数字并且必须是10-20位")
+				}else if(data.responseJSON.message=="length of the nickname is wrong"){
+					alert("昵称必须是2-8位")
+				}else if(data.responseJSON.message=="same nickname"){
+					alert("该用户名已存在")
+				}
+			}    })}           
+		
+</script>
+</head>
+<body>
+	<form>
+		
+		
+        新昵称：<input type="text" id="newNickname" /><br>
+		<input type="button" value="确定" onclick="register()" />&nbsp;&nbsp;&nbsp; 
+		<input type="reset" value="重置" />
+		
+	</form>
+</body>
+</html>

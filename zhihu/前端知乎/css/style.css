@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #dcdcdc;
+}
+a{
+    display: block;
+    text-decoration: none
+}
+li{
+    list-style-type: none;
+}
+.head{
+    height: 50px;
+    background: #fff;
+    position: relative;
+}
+.head_main{
+    margin: 0 auto;
+    width: 1300px;
+}
+.content{
+    width: 1000px;
+    height: 800px;
+    background: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.logo{
+    float: left;
+    height: 50px;
+    margin-right: 50px;
+}
+.navList{
+    float: left;
+    margin-right: 50px;
+}
+.navList li{
+    float: left;
+    padding: 0 20px;
+}
+.navList li a{
+    color: #8590a6;
+    line-height: 50px;
+    width: auto;
+    font-size: 15px;
+    text-align: center;
+    float: left;
+}
+.navList li.on a{
+    box-sizing: border-box;
+    width: auto;
+    height: 50px;
+    border-bottom: 4px solid #06f;
+
+}
+.search{
+    width: 580px;
+    float: left;
+}
+
+.searchInput{
+    float: left;
+    position: relative;
+}
+.searchInput input{
+    width: 400px;
+    height: 34px;
+    background: #f6f6f6;
+    color: #333333;
+    border: none;
+    margin-top: 8px;
+    border-radius: 20px;
+}
+.search button{
+    float: left;
+    width: 70px;
+    height: 34px;
+    margin-top: 8px;
+    margin-left: 10px;
+    background: #0066ff;
+    border: none;
+    color: #fff;
+    border-radius: 20px;
+}
+.searchInput a{
+    display: block;
+    position: absolute;
+    top: 17px;
+    right: 12px;
+    width: 15px;
+    height: 15px;
+    background: url("../images/search.png") center center no-repeat;
+    background-size: 100% 100%;
+}
+.userInfo{
+    float: left;
+    width: 150px;
+}
+.userInfo a{
+    display: block;
+    float: left;
+}
+.userInfo a.advise img{
+    width: 18px;
+    height: 20px;
+    margin-top: 15px;
+}
+.userInfo a.msg img{
+    width: 18px;
+    height: 17px;
+    margin-top: 16px;
+    margin-left: 40px;
+}
+.userInfo a.user img{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.content{
+    margin-top: 10px;
+}
+.dataList{
+    float: left;
+    width: 700px;
+}
+.rightBar{
+    float: right;
+    width: 250px;
+}

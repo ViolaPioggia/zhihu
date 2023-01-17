@@ -1,0 +1,91 @@
+<html>
+ 	<head>
+		<title > 知乎个人主页</title>
+        <style>
+            p1{
+                font-size: small;
+                color: black;
+            }
+           
+        </style>
+	</head>
+	<body background="./images/背景.png">
+	<hr />
+    <a href="./changeNickname.html"><h1 align="center" id="nickname"></h1></a>
+	<hr/>
+<font size="6" >  
+<pre><p  align="center">         <a  href="./首页.html" >首页</a>   <a  href="changePassword.html" >修改密码</a>   <a  href="./login.html" onclick="logout()">注销账号</a>       </p></pre>
+
+	<br>
+    
+<p align="center">
+    <a href="./changeAvatar.html"><img id="img"  width="160" height="160" align="center"></a>
+<table width="400" height="200" border="1">
+<font size="20">
+<tr>
+<th>关注</th>
+<th>粉丝</th>
+<th>收藏夹</th>
+</tr>
+<tr>
+<td align="center"id="">~</td>
+<td align="center"id="">~</td>
+<td align="center"id="collection">~</td>
+</font>
+</p>
+<a href="./changeIntroduction.html"><p1 align="center" id="introduction"></p1></a>
+	
+	</body>
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" ></script>
+    <script>
+        $.ajax({
+            url : "http://localhost:8088/user/uid",
+            type : "get",
+            data : JSON.stringify({
+            }),
+            headers:{ "Authorization":"Bearer"+" "+localStorage.getItem("token")},
+            contentType : "application/json;charset=UTF-8",
+            dataType : "JSON",
+            success : function(data) {
+                console.log(data)
+                avatar=data.avatar
+                nickname=data.nickname
+                introduction=data.introduction
+                likearticle=data.likearticle
+                $("#img").attr("src",avatar)
+                document.getElementById('nickname').innerHTML=nickname
+                document.getElementById('introduction').innerHTML=introduction
+            },
+            error : function(data){
+                if (data.responseJSON.code==2003){
+                    location.href = "login.html"
+                }
+            }
+        
+        })
+        $.ajax({
+            url : "http://localhost:8088/user/uid/getCollection",
+            type : "get",
+            data : JSON.stringify({
+            }),
+            headers:{ "Authorization":"Bearer"+" "+localStorage.getItem("token")},
+            contentType : "application/json;charset=UTF-8",
+            dataType : "JSON",
+            success : function(data) {
+                console.log(data)
+                collection=data.message
+                document.getElementById('collection').innerHTML=collection
+            },
+            error : function(data){
+                console.log(data)
+            }
+        
+        })
+            function logout(){
+                localStorage.removeItem("token")
+            }
+            
+            </script>
+</html>
+
+                            

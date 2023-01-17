@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>话题</title>
+    
+</head>
+<body>
+    评论内容：<input type="text" id="context" size="100"/><br>
+    <input type="button" value="确定" onclick="register()" />&nbsp;&nbsp;&nbsp; 
+    <input type="reset" value="重置" />
+        <h1 id="title"></h1>
+        <p id='context'></p>
+        <P id="time"></P>
+        <table style="width: 600px;height: 200px;" id="tableid" class="table table-bordered"align="center">
+            <thead>
+              <tr>
+                <td>昵称</td>
+                <td>内容</td>
+                <td>时间</td>
+              </tr>
+            </thead>
+         </table>
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" ></script>
+    <script>
+       function register(){
+        var context = $("#context").val();
+        $.ajax({
+        url : "http://localhost:8088/user/:uid/question/2/article/1/postComment",
+        type : "post",
+        headers:{ "Authorization":"Bearer"+" "+localStorage.getItem("token")},
+        data : JSON.stringify({
+            context:context
+        }),
+        contentType : "application/json;charset=UTF-8",
+        dataType : "JSON",
+        success : function(data) {
+            if (data != null) {
+                console.log(data)
+                location.href = "comment.html";
+            
+    //             var attr=json;
+    //             $.each(attr,function(index,value){
+    //  //在页面显示数据
+    //  $("#tableid").append("<tr><td>" +attr[index].name+"</td>"+
+    //                            "<td><a href=./article.html>"+attr[index].title+"</a></td>"+
+    //                            "<td>"+attr[index].time+"</td></tr>");
+    // })
+
+                
+            }
+        },
+        error : function(data){
+            console.log(data)
+            console.log(data.responseText)
+        
+        }})    } 
+        $.ajax({
+        url : "http://localhost:8088/user/uid/question/2/article/1/comment",
+        type : "get",
+        headers:{ "Authorization":"Bearer"+" "+localStorage.getItem("token")},
+        data : JSON.stringify({}),
+        contentType : "application/json;charset=UTF-8",
+        dataType : "text",
+        success : function(data) {
+            if (data != null) {
+                console.log(data)
+                var arr=[]
+                arr=data.split('}')
+                for (i=0;arr[i]!="";i++){
+                    arr[i]+="}"
+                }
+                i--;
+                console.log(arr)
+                var json=[]
+                for (i;i>=0;i--){
+                    json[i]=JSON.parse(arr[i])
+                }
+                console.log(json)
+
+                var attr=json;
+                $.each(attr,function(index,value){
+     //在页面显示数据
+     $("#tableid").append(    "<tr><td>"+attr[index].nickname+"</td>"+
+                               "<td>"+attr[index].context+"</td>"+
+                               "<td>"+attr[index].time+"</td></tr>");
+    })
+
+                
+            }
+        },
+        error : function(data){
+            console.log(data)
+            console.log(data.responseText)
+        
+        }})     
+        
+                
+    //         }
+    //     },
+    //     error : function(data){
+    //         console.log(data)
+    //         console.log(data.responseText)
+        
+    //     }})     
+        
+        </script>
+</body>
+</html>

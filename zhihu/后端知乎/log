@@ -1,0 +1,1141 @@
+[2022-12-03 09:44:35.478]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-03 09:45:50.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-03 11:11:30.202]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-03 11:12:05.294]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 14:50:28.469]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:11:19.488]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:11:19.495]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 15:27:53.034]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:27:53.043]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "unknown time zone local"}
+[2022-12-29 15:28:09.885]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:28:09.892]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 15:35:06.784]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:35:06.791]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 15:56:11.708]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:56:11.715]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid URL escape \"%!F\""}
+[2022-12-29 15:58:28.115]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:58:28.122]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 15:59:56.946]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 15:59:56.954]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "unknown time zone local"}
+[2022-12-29 16:00:06.521]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 16:00:06.528]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 16:14:22.568]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 16:14:22.575]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 16:49:02.957]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 16:49:02.964]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "unknown time zone local"}
+[2022-12-29 16:49:37.452]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 16:49:37.460]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "unknown time zone Asia"}
+[2022-12-29 16:49:55.018]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 16:49:55.025]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 23:10:43.381]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 23:10:43.387]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:18	initialize database failed	{"error": "sql: unknown driver \"mysql\" (forgotten import?)"}
+[2022-12-29 23:18:44.317]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 23:18:44.324]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:18	initialize database failed	{"error": "sql: unknown driver \"Mysql\" (forgotten import?)"}
+[2022-12-29 23:37:11.323]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 23:37:11.331]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:18	initialize database failed	{"error": "sql: unknown driver \"mysql\" (forgotten import?)"}
+[2022-12-29 23:39:39.082]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 23:39:39.089]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid DSN: did you forget to escape a param value?"}
+[2022-12-29 23:50:54.906]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 23:50:54.960]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-29 23:53:30.478]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 23:53:30.485]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "invalid URL escape \"%!s\""}
+[2022-12-29 23:56:31.877]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-29 23:56:31.891]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 00:23:33.586]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 00:23:33.604]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 00:25:50.166]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 00:25:50.178]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 00:37:50.555]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 00:37:50.571]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 01:00:29.924]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 01:01:39.388]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 01:44:22.163]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:15:06.193]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:15:55.923]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:16:04.995]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:16:13.200]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:16:15.076]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:16:48.797]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:17:19.760]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:17:44.905]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:18:16.166]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:28:12.141]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:32:15.816]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:53:28.810]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 11:53:59.153]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 12:54:33.895]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 12:54:33.997]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:50	connect to redis failed	{"error": "dial tcp :0: connectex: The requested address is not valid in its context."}
+[2022-12-30 12:57:56.147]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 12:58:23.368]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:50	connect to redis failed	{"error": "dial tcp :0: connectex: The requested address is not valid in its context."}
+[2022-12-30 13:01:05.337]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 13:01:05.347]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2022-12-30 15:23:47.402]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 15:23:47.417]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 15:23:52.427]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:50	connect to redis failed	{"error": "context deadline exceeded"}
+[2022-12-30 15:38:51.358]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 15:38:51.371]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 15:38:56.371]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:50	connect to redis failed	{"error": "context deadline exceeded"}
+[2022-12-30 15:39:13.094]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 15:39:13.107]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 15:39:13.109]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2022-12-30 15:45:31.264]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 15:45:31.277]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 15:45:31.278]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2022-12-30 15:45:51.088]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 15:45:51.102]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 15:45:51.103]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2022-12-30 15:46:31.290]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 15:46:31.306]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 15:46:31.307]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2022-12-30 15:46:37.705]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 15:46:37.720]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 15:46:37.721]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2022-12-30 17:15:15.130]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2022-12-30 17:15:15.143]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2022-12-30 17:15:15.144]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2022-12-30 17:15:15.145]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 17:25:45.511]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 17:25:45.534]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 17:25:50.538]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:50	connect to redis failed	{"error": "context deadline exceeded"}
+[2023-01-01 17:26:17.902]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 17:26:17.911]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 17:26:17.913]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 17:26:17.913]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 18:49:15.578]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 18:49:15.590]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 18:49:15.590]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 18:49:15.590]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 18:55:14.514]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 18:55:14.524]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 18:55:14.525]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 18:55:14.525]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:15:53.435]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:15:53.445]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:15:53.446]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:15:53.446]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:19:47.285]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:19:47.298]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:19:47.298]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:19:47.298]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:20:43.390]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:20:43.401]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:20:43.403]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:20:43.403]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:23:06.409]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:23:06.420]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:23:06.420]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:23:06.420]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:27:56.626]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:27:56.635]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:27:56.636]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:27:56.636]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:30:46.525]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:30:46.538]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:30:46.538]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:30:46.539]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:38:21.640]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:38:21.650]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:38:21.650]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:38:21.650]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 19:45:01.256]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 19:45:01.265]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 19:45:01.266]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 19:45:01.266]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:13:30.428]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:13:30.437]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:13:30.438]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:13:30.438]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:14:17.527]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:14:17.539]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:14:17.540]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:14:17.540]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:19:08.129]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:19:08.138]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:19:08.138]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:19:08.138]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:21:10.675]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:21:10.684]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:21:10.684]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:21:10.684]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:29:22.877]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:29:22.886]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:29:22.887]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:29:22.887]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:30:02.138]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:30:02.148]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:30:02.148]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:30:02.149]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:30:47.928]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:30:47.939]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:30:47.939]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:30:47.940]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:33:32.952]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:33:32.961]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:33:32.962]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:33:32.962]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:37:42.251]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:37:42.259]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:37:42.260]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:37:42.260]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:44:13.630]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:44:13.641]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:44:13.642]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:44:13.642]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:46:11.488]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:46:11.497]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:46:11.497]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:46:11.498]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:49:23.650]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:49:23.658]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:49:23.659]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:49:23.659]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 20:49:50.033]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 20:49:50.043]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 20:49:50.043]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 20:49:50.043]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 21:13:59.438]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 21:13:59.448]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 21:13:59.448]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 21:13:59.448]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 21:20:54.429]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 21:20:54.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 21:20:54.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 21:20:54.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 21:25:32.259]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 21:25:32.269]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 21:25:32.269]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 21:25:32.269]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 21:26:06.000]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 21:26:06.009]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 21:26:06.010]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 21:26:06.010]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 21:30:22.981]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 21:30:22.989]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 21:30:22.991]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 21:30:22.991]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 21:31:24.267]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 21:31:24.275]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 21:31:24.276]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 21:31:24.276]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 21:34:07.454]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 21:34:07.462]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:19	initialize database failed	{"error": "unknown time zone local"}
+[2023-01-01 23:38:04.959]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 23:38:04.975]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 23:38:04.977]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 23:38:04.977]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 23:40:57.826]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 23:40:57.836]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 23:40:57.837]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 23:40:57.837]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 23:41:11.168]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 23:41:11.179]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 23:41:11.179]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 23:41:11.180]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 23:48:44.392]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 23:48:44.403]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 23:48:44.404]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 23:48:44.404]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 23:49:30.634]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 23:49:30.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 23:49:30.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 23:49:30.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 23:49:36.753]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 23:49:36.764]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 23:49:36.765]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 23:49:36.765]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-01 23:51:12.580]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-01 23:51:12.594]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:33	initialize database success
+[2023-01-01 23:51:12.595]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:54	initialize redis success
+[2023-01-01 23:51:12.595]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:10:59.312]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:10:59.323]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:10:59.324]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:10:59.324]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:14:17.485]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:14:17.494]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:32	initialize database success
+[2023-01-02 00:14:17.494]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:53	initialize redis success
+[2023-01-02 00:14:17.495]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:14:45.885]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:15:23.544]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:18:06.641]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:18:41.396]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:18:41.408]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:18:41.408]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:18:41.408]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:24:18.486]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:24:18.498]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:24:18.499]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:24:18.499]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:27:37.243]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:27:37.256]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:27:37.257]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:27:37.257]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:28:23.814]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:28:23.826]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:28:23.827]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:28:23.827]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:29:35.047]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:29:35.058]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:29:35.058]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:29:35.058]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:30:12.602]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:30:12.615]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:30:12.616]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:30:12.616]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:41:03.829]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:41:03.839]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:41:03.839]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:41:03.840]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:54:06.298]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:54:06.308]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:54:06.309]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:54:06.309]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:54:31.083]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:54:31.092]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:54:31.092]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:54:31.092]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 00:55:06.544]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 00:55:06.553]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 00:55:06.553]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 00:55:06.553]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:27:57.423]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:27:57.433]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:27:57.434]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:27:57.434]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:32:27.363]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:32:27.373]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:32:27.373]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:32:27.373]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:34:20.770]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:34:20.779]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:34:20.779]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:34:20.779]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:35:51.776]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:35:51.786]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:35:51.786]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:35:51.786]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:38:07.311]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:38:07.320]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:38:07.320]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:38:07.321]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:51:18.649]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:51:18.659]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:51:18.659]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:51:18.659]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:53:57.088]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:53:57.097]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:53:57.098]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:53:57.098]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 01:57:52.559]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 01:57:52.569]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 01:57:52.570]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 01:57:52.570]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 02:15:01.486]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 02:15:01.497]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 02:15:01.497]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 02:15:01.498]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 02:17:28.159]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 02:17:28.168]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 02:17:28.169]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 02:17:28.169]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 02:20:23.117]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 02:20:23.133]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 02:20:23.134]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 02:20:23.134]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 02:24:55.367]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 02:24:55.376]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 02:24:55.377]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 02:24:55.377]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 02:27:56.381]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 02:27:56.393]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 02:27:56.393]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 02:27:56.393]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 02:30:14.838]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 02:30:14.853]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 02:30:14.853]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 02:30:14.853]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 12:06:00.487]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 12:06:00.495]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 12:06:00.496]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 12:06:00.496]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 12:07:11.201]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 12:07:11.210]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 12:07:11.210]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 12:07:11.210]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 12:14:21.844]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 12:14:21.853]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 12:14:21.854]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 12:14:21.854]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 12:22:51.133]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 12:22:51.144]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 12:22:51.144]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 12:22:51.144]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 12:55:41.575]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 12:55:41.590]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 12:55:41.591]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 12:55:41.591]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-02 13:19:17.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-02 13:19:17.448]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-02 13:19:17.449]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-02 13:19:17.449]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-03 11:48:27.344]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-03 11:48:27.366]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-03 11:48:27.367]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-03 11:48:27.367]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-03 23:17:21.810]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-03 23:17:21.830]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-03 23:17:21.832]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-03 23:17:21.833]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 01:26:34.004]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 01:26:34.020]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 01:26:34.022]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 01:26:34.022]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 01:31:28.148]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 01:31:28.158]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 01:31:28.159]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 01:31:28.159]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 01:32:50.904]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 01:32:50.915]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 01:32:50.916]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 01:32:50.916]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 01:34:08.492]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 01:34:08.502]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 01:34:08.503]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 01:34:08.503]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 01:34:58.447]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 01:34:58.457]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 01:34:58.458]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 01:34:58.458]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 11:10:52.633]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 11:10:52.643]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 11:10:52.643]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 11:10:52.644]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 11:13:42.967]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 11:13:42.976]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 11:13:42.976]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 11:13:42.977]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 11:14:36.210]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 11:14:36.221]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 11:14:36.222]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 11:14:36.222]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 11:25:18.632]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 11:25:18.641]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 11:25:18.641]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 11:25:18.641]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 11:26:32.176]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 11:26:32.185]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 11:26:32.186]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 11:26:32.186]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 12:11:41.227]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 12:11:41.240]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 12:11:41.241]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 12:11:41.241]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 12:23:26.927]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 12:23:26.936]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 12:23:26.936]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 12:23:26.936]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 13:51:32.059]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 13:51:32.068]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 13:51:32.069]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 13:51:32.069]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 13:51:59.305]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 13:51:59.314]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 13:51:59.314]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 13:51:59.314]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 13:59:56.180]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 13:59:56.191]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 13:59:56.192]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 13:59:56.192]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 14:07:13.418]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 14:07:13.428]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 14:07:13.429]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 14:07:13.429]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 14:20:03.748]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 14:20:03.757]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 14:20:03.758]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 14:20:03.758]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 14:22:23.062]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 14:22:23.071]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 14:22:23.071]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 14:22:23.071]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 14:25:48.687]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 14:25:48.696]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 14:25:48.696]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 14:25:48.696]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-04 14:31:18.229]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-04 14:31:18.237]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-04 14:31:18.238]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-04 14:31:18.238]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-05 20:39:42.724]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:39:42.756]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1044 (42000): Access denied for user 'root'@'%' to database 'zhihu'"}
+[2023-01-05 20:41:33.310]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:41:33.341]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user 'root'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 20:42:15.554]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:42:15.600]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1044 (42000): Access denied for user 'root'@'%' to database 'zhihu'"}
+[2023-01-05 20:42:25.711]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:42:25.820]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user 'root'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 20:42:48.405]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:42:48.435]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user 'root'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 20:43:20.645]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:43:20.673]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user 'root'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 20:43:33.431]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:43:33.461]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user 'root'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 20:43:52.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:43:52.471]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1044 (42000): Access denied for user 'root'@'%' to database '知乎'"}
+[2023-01-05 20:49:06.994]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:49:07.022]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user '知乎'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 20:50:24.150]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:50:24.179]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user 'zhihu'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 20:56:45.851]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:56:45.880]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1044 (42000): Access denied for user 'root'@'%' to database 'zhihu'"}
+[2023-01-05 20:57:15.391]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 20:57:15.446]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user 'zhihu'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 21:32:19.818]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:32:19.847]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user '知乎'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 21:32:22.545]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:32:22.575]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user '知乎'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 21:32:30.926]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:32:30.956]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user '知乎'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 21:32:53.094]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:32:53.120]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user '知乎'@'171.212.243.98' (using password: YES)"}
+[2023-01-05 21:33:05.713]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:33:05.742]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:34	connected failed	{"error": "Error 1045 (28000): Access denied for user '知乎'@'171.212.243.98' (using password: NO)"}
+[2023-01-05 21:33:33.974]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:33:34.019]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-05 21:33:39.032]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:55	connect to redis failed	{"error": "context deadline exceeded"}
+[2023-01-05 21:36:37.181]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:36:37.232]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-05 21:36:42.246]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:55	connect to redis failed	{"error": "context deadline exceeded"}
+[2023-01-05 21:43:39.940]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:43:39.982]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-05 21:43:44.983]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:55	connect to redis failed	{"error": "context deadline exceeded"}
+[2023-01-05 21:45:20.885]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:45:20.927]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-05 21:45:25.937]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:55	connect to redis failed	{"error": "context deadline exceeded"}
+[2023-01-05 21:45:37.121]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:45:37.201]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-05 21:45:42.207]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:55	connect to redis failed	{"error": "context deadline exceeded"}
+[2023-01-05 21:46:53.623]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 21:46:53.667]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-05 21:46:53.684]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-05 21:46:53.684]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-05 23:46:02.475]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-05 23:46:02.521]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-05 23:46:02.535]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-05 23:46:02.535]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-06 13:35:11.990]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-06 13:35:12.036]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-06 13:35:12.053]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-06 13:35:12.053]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-06 13:36:41.442]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-06 13:36:41.486]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-06 13:36:41.505]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-06 13:36:41.506]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-07 13:16:58.535]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-07 13:16:58.561]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-07 13:17:03.576]	[31mFATAL[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:55	connect to redis failed	{"error": "context deadline exceeded"}
+[2023-01-07 13:17:16.204]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-07 13:17:16.219]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-07 13:17:16.220]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-07 13:17:16.220]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-07 14:54:50.304]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-07 14:54:50.324]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-07 14:54:50.326]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-07 14:54:50.327]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8077"}
+[2023-01-07 14:55:23.031]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-07 14:55:23.047]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-07 14:55:23.048]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-07 14:55:23.048]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-07 15:06:03.238]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-07 15:06:03.254]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-07 15:06:03.255]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-07 15:06:03.255]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-07 15:40:43.740]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-07 15:40:43.755]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-07 15:40:43.756]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-07 15:40:43.756]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-07 20:01:17.803]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-07 20:01:17.825]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-07 20:01:17.826]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-07 20:01:17.826]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 00:12:26.150]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 00:12:26.176]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 00:12:26.183]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 00:12:26.183]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 00:17:59.129]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 00:17:59.147]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 00:17:59.149]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 00:17:59.149]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 00:21:55.662]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 00:21:55.680]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 00:21:55.682]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 00:21:55.682]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 00:22:58.027]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 00:22:58.046]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 00:22:58.047]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 00:22:58.047]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 01:24:22.997]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 01:24:23.017]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 01:24:23.018]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 01:24:23.018]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 01:26:56.815]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 01:26:59.495]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 01:26:59.869]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 01:27:00.239]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 01:27:16.607]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 01:27:16.645]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 01:27:16.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 01:27:16.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 01:29:16.713]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 01:29:16.731]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 01:29:16.733]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 01:29:16.733]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 01:29:49.335]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 01:29:49.353]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 01:29:49.355]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 01:29:49.355]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 11:37:08.668]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 11:37:08.696]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 11:37:08.697]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 11:37:08.698]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 11:45:26.087]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 11:45:26.102]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 11:45:26.103]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 11:45:26.103]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 11:53:15.434]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 11:53:15.451]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 11:53:15.451]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 11:53:15.452]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 11:59:10.263]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 11:59:10.280]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 11:59:10.280]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 11:59:10.281]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 12:48:17.161]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 12:48:17.176]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 12:48:17.177]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 12:48:17.177]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 13:09:26.343]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 13:09:26.358]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 13:09:26.359]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 13:09:26.359]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 13:09:57.129]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 13:09:57.147]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 13:09:57.148]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 13:09:57.148]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 13:12:03.957]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 13:12:03.973]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 13:12:03.974]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 13:12:03.974]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 13:38:06.883]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 13:38:06.900]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 13:38:06.900]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 13:38:06.900]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 15:45:15.288]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 15:45:15.313]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 15:45:15.315]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 15:45:15.315]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-08 20:20:11.384]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-08 20:20:11.404]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-08 20:20:11.405]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-08 20:20:11.406]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 00:29:46.276]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 00:29:46.308]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 00:29:46.309]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 00:29:46.310]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 00:32:05.420]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 00:32:05.438]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 00:32:05.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 00:32:05.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 00:33:55.685]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 00:33:55.704]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 00:33:55.705]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 00:33:55.705]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 01:24:02.813]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 01:24:02.834]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 01:24:02.835]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 01:24:02.836]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 10:52:54.327]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 10:52:54.354]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 10:52:54.355]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 10:52:54.355]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 11:58:21.129]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 11:58:21.144]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 11:58:21.145]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 11:58:21.145]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 13:26:01.171]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 13:26:01.189]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 13:26:01.190]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 13:26:01.190]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 13:31:00.005]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 13:31:00.026]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 13:31:00.027]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 13:31:00.027]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 13:31:59.829]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 13:31:59.852]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 13:31:59.853]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 13:31:59.853]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 13:41:59.169]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 13:41:59.184]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 13:41:59.185]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 13:41:59.185]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-09 14:16:56.629]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-09 14:16:56.645]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-09 14:16:56.646]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-09 14:16:56.646]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 13:42:07.682]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 13:42:07.700]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 13:42:07.702]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 13:42:07.702]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 15:54:25.384]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 15:54:25.403]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 15:54:25.404]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 15:54:25.404]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 16:21:38.771]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 16:21:38.786]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 16:21:38.787]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 16:21:38.787]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 20:04:36.450]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 20:04:36.470]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 20:04:36.471]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 20:04:36.471]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 20:06:15.433]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 20:06:15.451]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 20:06:15.452]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 20:06:15.452]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 20:24:22.997]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 20:24:23.013]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 20:24:23.014]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 20:24:23.014]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 22:01:53.351]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 22:01:53.371]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 22:01:53.372]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 22:01:53.372]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 22:04:16.087]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 22:04:16.105]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 22:04:16.106]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 22:04:16.107]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 22:49:44.690]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 22:49:44.715]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 22:49:44.717]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 22:49:44.717]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 22:52:44.386]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 22:52:44.406]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 22:52:44.407]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 22:52:44.407]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 22:53:22.767]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 22:53:22.791]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 22:53:22.792]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 22:53:22.792]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 22:53:38.041]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 22:53:38.060]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 22:53:38.061]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 22:53:38.061]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:00:12.568]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:00:12.591]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:00:12.592]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:00:12.592]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:20:51.713]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:20:51.730]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:20:51.731]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:20:51.731]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:21:28.269]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:21:28.291]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:21:28.292]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:21:28.292]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:23:31.873]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:23:31.895]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:23:31.896]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:23:31.896]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:26:13.849]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:26:13.863]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:26:13.864]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:26:13.864]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:40:54.881]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:40:54.898]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:40:54.899]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:40:54.899]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:43:58.496]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:43:58.513]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:43:58.514]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:43:58.514]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-10 23:58:56.503]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-10 23:58:56.520]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-10 23:58:56.521]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-10 23:58:56.521]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-11 00:00:32.334]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-11 00:00:32.349]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-11 00:00:32.350]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-11 00:00:32.350]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-11 00:00:49.720]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-11 00:00:49.738]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-11 00:00:49.739]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-11 00:00:49.740]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-11 00:03:37.816]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-11 00:03:37.834]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-11 00:03:37.835]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-11 00:03:37.835]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-12 20:01:31.274]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-12 20:01:31.313]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-12 20:01:31.321]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-12 20:01:31.322]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-12 21:31:08.746]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-12 21:31:08.761]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-12 21:31:08.762]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-12 21:31:08.762]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-12 21:32:07.876]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-12 21:32:07.896]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-12 21:32:07.898]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-12 21:32:07.898]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-12 21:37:04.510]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-12 21:37:04.526]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-12 21:37:04.527]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-12 21:37:04.527]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-12 21:37:39.186]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-12 21:37:39.204]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-12 21:37:39.205]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-12 21:37:39.205]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-12 21:43:13.492]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-12 21:43:13.507]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-12 21:43:13.508]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-12 21:43:13.508]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-12 21:55:49.688]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-12 21:55:49.704]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-12 21:55:49.706]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-12 21:55:49.706]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 11:37:57.542]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 11:37:57.564]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 11:37:57.566]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 11:37:57.566]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 11:52:32.892]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 11:52:32.913]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 11:52:32.913]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 11:52:32.914]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 11:55:30.364]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 11:55:30.384]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 11:55:30.385]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 11:55:30.385]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 12:18:00.533]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 12:18:00.554]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 12:18:00.555]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 12:18:00.555]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 12:21:11.306]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 12:21:11.323]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 12:21:11.324]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 12:21:11.324]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 12:22:04.654]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 12:22:04.670]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 12:22:04.671]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 12:22:04.671]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 12:22:59.239]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 12:22:59.253]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 12:22:59.254]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 12:22:59.254]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 13:04:06.764]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 13:04:06.780]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 13:04:06.781]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 13:04:06.781]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 13:32:32.365]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 13:32:32.381]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 13:32:32.382]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 13:32:32.383]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 13:36:15.850]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 13:36:15.870]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 13:36:15.870]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 13:36:15.870]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 13:38:41.011]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 13:38:41.027]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 13:38:41.028]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 13:38:41.028]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 20:33:02.386]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 20:33:02.410]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 20:33:02.412]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 20:33:02.412]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 21:14:43.858]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 21:14:43.880]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 21:14:43.882]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 21:14:43.882]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 21:48:37.622]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 21:48:37.643]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 21:48:37.645]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 21:48:37.645]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-13 23:42:46.572]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-13 23:42:46.601]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-13 23:42:46.602]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-13 23:42:46.603]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 00:25:05.695]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 00:25:05.720]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 00:25:05.721]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 00:25:05.721]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 00:30:43.109]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 00:30:43.137]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 00:30:43.138]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 00:30:43.138]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 00:31:52.979]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 00:31:52.997]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 00:31:52.999]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 00:31:52.999]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 00:42:35.853]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 00:42:35.876]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 00:42:35.877]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 00:42:35.877]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 00:45:19.199]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 00:45:19.219]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 00:45:19.220]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 00:45:19.220]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 00:56:32.918]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 00:56:32.945]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 00:56:32.946]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 00:56:32.947]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 00:57:42.780]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 00:57:42.807]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 00:57:42.808]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 00:57:42.808]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:02:10.354]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:02:10.372]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:02:10.373]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:02:10.374]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:12:31.414]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:12:31.445]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:12:31.447]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:12:31.447]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:14:12.585]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:14:12.606]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:14:12.607]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:14:12.608]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:15:09.276]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:15:09.298]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:15:09.299]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:15:09.299]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:16:58.005]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:16:58.027]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:16:58.028]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:16:58.028]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:17:23.274]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:17:23.298]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:17:23.299]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:17:23.300]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:18:45.887]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:18:45.906]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:18:45.907]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:18:45.907]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:29:21.906]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:29:21.927]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:29:21.928]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:29:21.928]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 01:32:46.060]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 01:32:46.082]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 01:32:46.083]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 01:32:46.083]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 11:18:49.102]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 11:18:49.130]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 11:18:49.131]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 11:18:49.131]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 14:38:07.822]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 14:38:07.838]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 14:38:07.839]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 14:38:07.839]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 14:47:10.131]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 14:47:10.150]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 14:47:10.151]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 14:47:10.151]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 14:48:34.657]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 14:48:34.676]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 14:48:34.677]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 14:48:34.677]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 14:57:33.704]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 14:57:33.720]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 14:57:33.721]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 14:57:33.721]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 14:58:25.237]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 14:58:25.256]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 14:58:25.257]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 14:58:25.257]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 14:59:00.088]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 14:59:00.103]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 14:59:00.104]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 14:59:00.104]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 14:59:33.404]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 14:59:33.420]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 14:59:33.420]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 14:59:33.420]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 17:20:41.605]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 17:20:41.627]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 17:20:41.628]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 17:20:41.628]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 17:24:38.829]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 17:24:38.844]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 17:24:38.845]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 17:24:38.845]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 17:25:20.895]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 17:25:20.915]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 17:25:20.915]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 17:25:20.916]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 17:26:12.359]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 17:26:12.373]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 17:26:12.375]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 17:26:12.375]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 17:26:59.286]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 17:26:59.302]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 17:26:59.303]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 17:26:59.303]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 17:31:18.603]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 17:31:18.622]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 17:31:18.623]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 17:31:18.623]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 17:32:03.372]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 17:32:03.387]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 17:32:03.387]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 17:32:03.387]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 18:48:18.812]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 18:48:18.832]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 18:48:18.832]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 18:48:18.832]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 19:07:49.485]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 19:07:49.500]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 19:07:49.501]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 19:07:49.501]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-14 19:18:38.487]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-14 19:18:38.502]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-14 19:18:38.503]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-14 19:18:38.503]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-15 11:16:28.642]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-15 11:16:28.677]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-15 11:16:28.678]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-15 11:16:28.678]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-15 11:44:23.017]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-15 11:44:23.033]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-15 11:44:23.034]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-15 11:44:23.034]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-15 14:37:44.408]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-15 14:37:44.438]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-15 14:37:44.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-15 14:37:44.439]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:17:12.260]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:17:12.299]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:17:12.299]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:17:12.300]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:23:02.664]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:23:02.693]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:23:02.694]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:23:02.694]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:23:55.015]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:23:55.034]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:23:55.035]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:23:55.035]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:31:26.783]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:31:26.804]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:31:26.806]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:31:26.806]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:32:05.630]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:32:05.654]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:32:05.655]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:32:05.655]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:32:45.595]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:32:45.615]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:32:45.616]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:32:45.616]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:32:55.966]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:32:55.994]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:32:55.995]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:32:55.995]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:37:36.126]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:37:36.150]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:37:36.151]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:37:36.151]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:37:51.413]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:37:51.436]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:37:51.437]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:37:51.437]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:38:34.183]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:38:34.208]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:38:34.209]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:38:34.209]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:38:43.275]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:38:43.302]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:38:43.304]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:38:43.304]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:40:27.530]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:40:27.549]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:40:27.550]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:40:27.550]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:40:53.308]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:40:53.326]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:40:53.328]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:40:53.328]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:47:14.973]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:47:14.993]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:47:14.994]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:47:14.994]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 00:47:58.627]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 00:47:58.646]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 00:47:58.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 00:47:58.647]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 12:29:47.801]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 12:29:47.834]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 12:29:47.835]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 12:29:47.835]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 16:11:14.518]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 16:11:14.543]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 16:11:14.544]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 16:11:14.544]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 16:12:19.770]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 16:12:19.786]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 16:12:19.786]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 16:12:19.787]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 16:12:29.669]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 16:12:29.688]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 16:12:29.689]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 16:12:29.689]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 16:12:32.710]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 16:12:32.728]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 16:12:32.729]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 16:12:32.730]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 16:12:32.732]	[31mERROR[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:22	listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2023-01-16 16:12:42.694]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 16:12:42.719]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 16:12:42.720]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 16:12:42.720]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 16:13:28.968]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 16:13:28.985]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 16:13:28.986]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 16:13:28.986]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 17:06:18.218]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 17:06:18.238]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 17:06:18.239]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 17:06:18.239]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 18:01:51.617]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 18:01:51.638]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 18:01:51.639]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 18:01:51.639]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 18:05:04.712]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 18:05:04.729]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 18:05:04.729]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 18:05:04.730]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-16 18:06:37.388]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-16 18:06:37.406]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-16 18:06:37.407]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-16 18:06:37.407]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-17 00:21:30.777]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-17 00:21:30.797]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-17 00:21:30.798]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-17 00:21:30.798]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-17 00:25:03.011]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-17 00:25:03.027]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-17 00:25:03.028]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-17 00:25:03.028]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-17 10:53:33.801]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-17 10:53:33.817]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-17 10:53:33.818]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-17 10:53:33.819]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-17 11:10:26.514]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-17 11:10:26.529]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-17 11:10:26.530]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-17 11:10:26.530]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-17 11:17:18.246]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-17 11:17:18.260]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-17 11:17:18.261]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-17 11:17:18.261]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}
+[2023-01-17 11:20:42.842]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/logger.go:53	initialize logger success
+[2023-01-17 11:20:42.856]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:38	initialize database success
+[2023-01-17 11:20:42.858]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/database.go:59	initialize redis success
+[2023-01-17 11:20:42.858]	[34mINFO[0m	C:/Users/紫雨/GolandProjects/qff/zuoye8/boot/server.go:19	initialize server success	{"port": ":8088"}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    
+        <table style="width: 600px;height: 200px;" id="tableid" class="table table-bordered"align="center">
+            <thead>
+              <tr>
+                <td>用户名</td>
+                <td>标题</td>
+                <td>时间</td>
+              </tr>
+            </thead>
+         </table>
+        <!-- <el-table-column label="话题名称" prop="title" width="299px"></el-table-column>
+        <el-table-column label="发布时间" prop="time" width="150px"></el-table-column>
+        <el-table-column label="发布者" prop="name" width="120px"></el-table-column> -->
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" ></script>
+    <script>
+        $.ajax({
+        url : "http://localhost:8088/user/uid/getQuestion",
+        type : "get",
+        headers:{ "Authorization":"Bearer"+" "+localStorage.getItem("token")},
+        data : JSON.stringify({}),
+        contentType : "application/json;charset=UTF-8",
+        dataType : "text",
+        success : function(data) {
+            if (data != null) {
+                console.log(data)
+                var arr=[]
+                arr=data.split('}')
+                for (i=0;arr[i]!="";i++){
+                    arr[i]+="}"
+                }
+                i--;
+                console.log(arr)
+                var json=[]
+                for (i;i>=0;i--){
+                    json[i]=JSON.parse(arr[i])
+                }
+                console.log(json)
+                // $("#name").attr("src",data[i].name);
+                // $("#title").attr("src",Imgbase);
+                // $("#time").attr("src",Imgbase);
+            //    for(i=1;json[i].name!="";i++){
+            //         // name: data[i].name
+            //         // title: data[i].title
+            //         // time: data[i].time
+                 
+            //         document.getElementById('name').innerHTML=json[i].name
+            //         document.getElementById('time').innerHTML=json[i].time
+            //         document.getElementById('title').innerHTML=json[i].title
+            //     }
+                var attr=json;
+                $.each(attr,function(index,value){
+     //在页面显示数据
+     $("#tableid").append("<tr><td>" +attr[index].name+"</td>"+
+                               "<td><a href=./article.html>"+attr[index].title+"</a></td>"+
+                               "<td>"+attr[index].time+"</td></tr>");
+    })
+
+                
+            }
+        },
+        error : function(data){
+            console.log(data)
+            console.log(data.responseText)
+        
+        }})     
+        
+        
+        </script>
+</body>
+</html>
