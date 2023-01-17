@@ -1,1 +1,0 @@
-"id"	"type"	"comment_id"	"from_id"	"from_name"	"from_avatar"	"to_id"	"to_name"	"to_avatar"	"like_num"	"content"	"create_time"	"update_time"
